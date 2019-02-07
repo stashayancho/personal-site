@@ -1,0 +1,32 @@
+baseurl = "https://stashayancho.github.io/"
+title = "Stasha Yancho"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = 'Im a software developer'
+  logo = "fa-code"
+  copyright = "Untitled"
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/stasha-yancho/"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/stashayancho"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
