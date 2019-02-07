@@ -1,3 +1,7 @@
 [submodule "themes/dimension"]
 	path = themes/dimension
 	url = https://github.com/sethmacleod/dimension.git
+[submodule "public"]
+	path = public
+	url = git@github.com:stashayancho/stashayancho.github.io.git
+	branch = master

@@ -1,7 +1,7 @@
 ---
 title: "Tech"
 date: 2019-02-06T15:29:50-06:00
-draft: true
+# draft: true
 ---
 
 ---

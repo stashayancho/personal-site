@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2019-02-06T15:29:43-06:00
-draft: true
+# draft: true
 ---
 
 
