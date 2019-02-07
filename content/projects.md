@@ -7,7 +7,7 @@ date: 2019-02-06T15:29:43-06:00
 
 ---
 ### Dollar Ducky
-[Dollar Ducky] (http://dollarducky.herokuapp.com) is a personal finance app that will help you get all your financial ducks in a row. It offers spending overviews, bill tracking, budgeting, purchase planning, a financial decision calculator, and a chatbot built with the Twilio API that you can text for information about any of the above. It integrates with the Plaid API to pull transaction information from your bank. Built in 2 weeks by a team of 3. If you'd like to try it out with the link above, please make sure to use the sandbox credentials provided when linking a bank.
+[Dollar Ducky] (http://dollarducky.herokuapp.com) is a personal finance app that will help you get all your financial ducks in a row. It offers spending overviews, bill tracking, budgeting, purchase planning, a financial decision calculator, and a chatbot built with the Twilio API that you can text for information about any of the above. It integrates with the Plaid API to pull transaction information from your bank. Built in 2 weeks by a team of 3. If you'd like to try it out with the link above, please make sure to use the sandbox credentials provided when linking a bank. Click on the photo below to see a video of our presentation.
 
 TECH: JS, React, Redux, Express, Node, PostgreSQL, Sequelize, Plaid API, Twilio API, Charts.js, Semantic UI, Waffle.io
 
