@@ -17,11 +17,6 @@ disableKinds=["RSS"]
   link = "https://www.linkedin.com/in/stasha-yancho/"
 
 [[params.social]]
-  medium = "instagram"
-  icon = "instagram"
-  link = "#"
-
-[[params.social]]
   medium = "github"
   icon = "github"
   link = "https://github.com/stashayancho"

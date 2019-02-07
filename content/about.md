@@ -6,11 +6,12 @@ draft: true
 
 ---
 
-![me](/images/headshot.JPG)
-{{< figure class="image main" src="/images/headshot.JPG" >}}
+<!-- ![me](/images/headshot.JPG) -->
+{{< figure class="headshot" src="/images/headshot.JPG" >}}
 
 i'm a software developer
 
-email:
+
+stasha.yancho@gmail.com
 
 {{< socialLinks >}}
